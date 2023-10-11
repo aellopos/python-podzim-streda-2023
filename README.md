@@ -17,8 +17,8 @@ Návod na odevzdávání úkolů najdete [zde](./ODEVZDAVANI-UKOLU.md).
 | -- | --------- | ---------------- | ------------------------------------------------------------------------ | ------------- | -------------
 | 1  | 20.09.2023 | Úvod, opakování, slicing, metody, moduly | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/uvod/ , https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/ | [ukol-01](./ukoly/ukol-01.md) | [rešení](./reseni/lekce-01.md)
 | 2  | 27.09.2023 | Slovníky, slovníky a cykly | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slovniky/slovniky ,  https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/slovniky/slovniky-a-cykly  | [ukol-02](./ukoly/ukol-02.md) | [rešení](./reseni/lekce-02.md)
-| 3  | 04.10.2023 | JSON, čtení a zápis JSON dat | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/ | [ukol-03](./ukoly/ukol-03.md)
-| 4  | 11.10.2023 | Funkce | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/ | [ukol-04](./ukoly/ukol-04.md)
+| 3  | 04.10.2023 | JSON, čtení a zápis JSON dat | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/ | [ukol-03](./ukoly/ukol-03.md) | [rešení](./reseni/lekce-03.md)
+| 4  | 11.10.2023 | Funkce | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/ | [ukol-04](./ukoly/ukol-04.md) | [rešení](./reseni/lekce-04.md)
 | 5  | 18.10.2023 | Typování funkcí, Cykly 2: list comprehension, dict comprehension | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/cteni-na-doma , https://kodim.cz/programovani/uvod-do-progr-2/bonusy/cykly-2/list-comprehension | [ukol-05](./ukoly/ukol-05.md)
 | 6  | 25.10.2023 |  Třídy a dědičnost | https://kodim.cz/programovani/python-oop/ | [ukol-06](./ukoly/ukol-06.md)
 | 7  | 01.11.2023 |  Regulární výrazy  | https://kodim.cz/analyza-dat/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy | [ukol-07](./ukoly/ukol-07.md)
