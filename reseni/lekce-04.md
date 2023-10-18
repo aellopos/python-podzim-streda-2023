@@ -307,3 +307,24 @@ for data in vazeni:
 
 
 </details>
+
+Napiš funkci total_price, která vypočte cenu noci v hotelu. Funkce bude mít dva parametry - persons a breakfast. Cena za noc za osobu je 850 Kč a cena za snídani za osobu je 125 Kč. Funkce vrátí výslednou cenu. Parametr breakfast je nepovinný a výchozí hodnota je False.
+
+Funkci vyzkoušej se zadáním dvou i jedné hodnoty, např. total_price(3), total_price(2, True).
+<details>
+<summary><b>Řešení</b></summary>
+
+
+```python
+def totalcena(persons, breakfast=False):
+  cenaPerPerson = 850
+  if breakfast:
+    cenaPerPerson += 125
+  return cenaPerPerson * persons
+
+print(totalcena(3))
+print(totalcena(3, True))
+```
+
+
+</details>
