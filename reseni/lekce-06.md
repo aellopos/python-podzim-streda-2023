@@ -128,6 +128,7 @@ print(package1.deliver())  # Zkusíme znovu doručit balík
 ```
 
 </details>
+
 ## Kniha ◇◇◇◆◆
 
 Zkus pro nakladatelství vytvořit software s využitím tříd a objektů. Vytvoř tedy třídu `Book`, která reprezentuje knihu.
