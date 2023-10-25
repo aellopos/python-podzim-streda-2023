@@ -20,7 +20,7 @@ Návod na odevzdávání úkolů najdete [zde](./ODEVZDAVANI-UKOLU.md).
 | 3  | 04.10.2023 | JSON, čtení a zápis JSON dat | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/ | [ukol-03](./ukoly/ukol-03.md) | [rešení](./reseni/lekce-03.md)
 | 4  | 11.10.2023 | Funkce | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/ | [ukol-04](./ukoly/ukol-04.md) | [rešení](./reseni/lekce-04.md)
 | 5  | 18.10.2023 | Typování funkcí, Cykly 2: list comprehension, dict comprehension | https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/cteni-na-doma , https://kodim.cz/programovani/uvod-do-progr-2/bonusy/cykly-2/list-comprehension | [ukol-05](./ukoly/ukol-05.md) | [rešení](./reseni/lekce-05.md)
-| 6  | 25.10.2023 |  Třídy a dědičnost | https://kodim.cz/programovani/python-oop/ | [ukol-06](./ukoly/ukol-06.md)
+| 6  | 25.10.2023 |  Třídy a dědičnost | https://kodim.cz/programovani/python-oop/ | [ukol-06](./ukoly/ukol-06.md) | [rešení](./reseni/lekce-06.md)
 | 7  | 01.11.2023 |  Regulární výrazy  | https://kodim.cz/analyza-dat/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy | [ukol-07](./ukoly/ukol-07.md)
 | 8  | 08.11.2023 | Jupyter notebook, Zpracování dat v modulu Pandas: úvod, načtení dat | https://kodim.cz/analyza-dat/python-data-1/python-pro-data-1/nacteni-dat/nacteni-dat | [ukol-08](./ukoly/ukol-08.md)
 | 9  | 15.11.2023 | Zpracování dat v modulu Pandas: Základní dotazy, spojení dat | https://kodim.cz/analyza-dat/python-data-1/python-pro-data-1/podmineny-vyber/podmineny-vyber ,https://kodim.cz/analyza-dat/python-data-1/python-pro-data-1/agregace-a-spojovani/pokrocile-upravy | [ukol-09](./ukoly/ukol-09.md)
